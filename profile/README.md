@@ -1,4 +1,4 @@
-## Hi there 👋
+## Marketing at its best 
 
 <!--
 
@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-### Marketing at its best 
+## Markifyup is an innovative marketing agency providing services like Social Media Management, Ad Campaigns, Video Editing, Digital marketing services etc
